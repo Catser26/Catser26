@@ -1,5 +1,12 @@
 ## Hi there 👋
+This page is very much work in progress
+### About me
+- I'm just a student working on my bachelor's degree
+- Pronouns: she/her
 
+### Plans
+- Currently learning C (cause I rlly should do that at some point)
+- Just doing some projects when I'm bored
 <!--
 **Catser26/Catser26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
