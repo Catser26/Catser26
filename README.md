@@ -5,7 +5,6 @@ This page is very much work in progress
 - Pronouns: she/her
 
 ### Plans
-- Currently learning C (cause I rlly should do that at some point)
 - Just doing some projects when I'm bored
 - Trying to get more into CTFs
 <!--
