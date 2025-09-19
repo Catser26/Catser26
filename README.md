@@ -7,6 +7,7 @@ This page is very much work in progress
 ### Plans
 - Just doing some projects when I'm bored
 - Trying to get more into CTFs
+- Currently studying for TryHackme PT1
 <!--
 **Catser26/Catser26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
